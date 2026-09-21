@@ -1,12 +1,11 @@
 # balajideveloper-hub.github.io
-
 Personal portfolio website showcasing projects and skills
 
-## 🌐 Live Site
+## Live Site
 
 **Visit the portfolio:** [https://oldprotfolio.balajitechlab.com/](https://oldprotfolio.balajitechlab.com/)
 
-## 📋 About
+## About
 
 This is my personal portfolio website built with HTML, CSS, and JavaScript. It features:
 
@@ -16,14 +15,14 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript. It f
 - Contact information with links to GitHub, LinkedIn, and Email
 - Fully responsive design for all devices
 
-## 🚀 Technologies Used
+##Technologies Used
 
 - HTML5
 - CSS3 (with custom properties and grid/flexbox layouts)
 - JavaScript
 - GitHub Pages for hosting
 
-## 📬 Contact
+## Contact
 
 - **GitHub:** [balajideveloper-hub](https://github.com/balajideveloper-hub)
 - **LinkedIn:** [balajideveloper](https://www.linkedin.com/in/balajideveloper/)
@@ -31,4 +30,4 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript. It f
 
 ---
 
-© 2026 Balaji S. All rights reserved.
+© 2026 BTL All rights reserved.
